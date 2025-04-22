@@ -13,19 +13,21 @@ Real-time data visualization and reporting
 Automatic slot allotment based on availability and predicted demand
 
 🧠 Machine Learning Models Used:
-Decision Tree
 
-Random Forest
+ Decision Tree
 
-Support Vector Machine (SVM)
+ Random Forest
+
+ Support Vector Machine (SVM)
 
 These models help analyze incoming traffic based on source locations, enabling better planning and resource allocation.
 
 🛠️ Tech Stack:
-Frontend: HTML, CSS, JavaScript
 
-Backend: Flask (Python)
+ Frontend: HTML, CSS, JavaScript
 
-Database: MySQL
+ Backend: Flask (Python)
 
-ML Frameworks: scikit-learn, pandas, NumPy
+ Database: MySQL
+
+ ML Frameworks: scikit-learn, pandas, NumPy
